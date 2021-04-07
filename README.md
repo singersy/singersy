@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @singersy
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in machine learning, web optimizations, and rock climbing
 - 🌱 I’m currently learning serverless web development
 - 💞️ I’m looking to collaborate on high impact projects
